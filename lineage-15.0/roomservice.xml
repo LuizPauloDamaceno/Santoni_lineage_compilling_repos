@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="LuizPauloDamaceno/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="github" revision="lineage-15.0" />
-  <project name="LuizPauloDamaceno/msm-3.18" path="kernel/xiaomi/msm-3.18" remote="github" revision="rel/msm-3.18-nougat" />
+  <project name="LuizPauloDamaceno/msm-3.18" path="kernel/xiaomi/msm-3.18" remote="github" revision="lineage-15.0" />
   <project name="LuizPauloDamaceno/android_vendor_xiaomi_santoni" path="vendor/xiaomi" remote="github" revision="lineage-15.0_rebase" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.0" />
